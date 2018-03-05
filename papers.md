@@ -6,6 +6,7 @@
 * Patients with hippocampal amnesia cannot imagine future events, suggesting that the ability to process memories appropriately is a precondition for this kind of self-projection (Hassabis, Kumaran, Vann, and Maguire, 2007)
 * Attention moves like eye movement ([Posner, 2007](http://www.tandfonline.com/doi/abs/10.1080/00335558008248231))
 * Mental rotation of shapes goes with angle of rotation (Shepard & Metzler, 1971)
+* Perceptions as hypotheses: saccades as experiments ([Friston et al, 2012](https://www.frontiersin.org/articles/10.3389/fpsyg.2012.00151/full))
 
 ## Action Perception & Simulation 
 
