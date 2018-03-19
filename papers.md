@@ -1,5 +1,7 @@
 # Empirical Evidence (Embodied Cognition, Simulation Theory)
 
+NOTE: Many of the below pulled from Pezzulo's 2013 review paper: Pezzulo, G., Candidi, M., Dindo, H., & Barca, L. (2013). Action simulation in the human brain: Twelve questions. New Ideas in Psychology, 31(3), 270–290. https://doi.org/10.1016/j.newideapsych.2013.01.004
+
 ## Visual Perception
 
 * Eye scanpaths during visual imagery reenact those of perception of the same visual scene ([Laeng and Teodorescu, 2002](https://www.sciencedirect.com/science/article/pii/S0364021301000659))
