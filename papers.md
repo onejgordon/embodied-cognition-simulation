@@ -3,7 +3,7 @@
 ## Visual Perception
 
 * Eye scanpaths during visual imagery reenact those of perception of the same visual scene ([Laeng and Teodorescu, 2002](https://www.sciencedirect.com/science/article/pii/S0364021301000659))
-* Patients with hippocampal amnesia cannot imagine future events, suggesting that the ability to process memories appropriately is a precondition for this kind of self-projection (Hassabis, Kumaran, Vann, and Maguire, 2007)
+* In hippocampal amnesia patients have trouble imaginining future events -- processing memories may be precondition for self-projection (Hassabis, Kumaran, Vann, and Maguire, 2007)
 * Attention moves like eye movement ([Posner, 2007](http://www.tandfonline.com/doi/abs/10.1080/00335558008248231))
 * Mental rotation of shapes goes with angle of rotation (Shepard & Metzler, 1971)
 * Perceptions as hypotheses: saccades as experiments ([Friston et al, 2012](https://www.frontiersin.org/articles/10.3389/fpsyg.2012.00151/full))
