@@ -22,7 +22,7 @@ NOTE: Many of the below pulled from Pezzulo's 2013 review paper: Pezzulo, G., Ca
 
 * Monkeys prefer to interact with individuals who imitate their behavior (Paukner, Suomi, Visalberghi, & Ferrari, 2009)
 * Frontal brain regions are more strongly activated when a person has to anticipate the action of another individual with whom there are previous interactions (Kourtis, Sebanz, & Knoblich, 2010)
-* Somatomotor resonance when subjects observe a painful stimulation delivered to the hand of a model dependent on subject's ability to adopt the model's perspective (also racial in-group out-group) (Avenanti, Minio-Paluello, Bufalari, & Aglioti, 2009)
+* Somatomotor resonance when subjects observe a painful stimulation delivered to the hand of a model dependent on multiple subjective personality / empathy traits (Avenanti, Minio-Paluello, Bufalari, & Aglioti, 2009)
 * Reduced action simulation during the observation of communicative gestures from out-group members (Molnar-Szakacs et al., 2007)
 * Increased heart rate after exercise facilitates the processing of fearful but not disgusted faces	([G Pezzulo, 2017](https://www.nature.com/articles/s41598-017-18761-5.pdf))
 * In observation of object-related manual actions (block-stacking), the coordination between gaze and the actor's hand is very similar to gaze-hand coordination during own performance (Flanagan and Johansson, 2003)
